@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rushikesh Hadawale
 
-🎓 **Computer Science Graduate** | 💻 Passionate Full Stack Developer | 🚀 Always Eager to Learn
+🎓 **MCA STUDENT** | 💻 Passionate Full Stack Developer | 🚀 Always Eager to Learn
 
 ---
 
