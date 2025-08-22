@@ -6,9 +6,7 @@
 
 ## 💡 Summary
 
-Motivated and detail-oriented Computer Science graduate with a strong foundation in object-oriented programming, data structures, and web technologies like HTML, CSS, JavaScript, and MySQL.  
-I’ve built several academic and personal full-stack projects and enjoy collaborating in innovative software development environments.
-
+I am currently pursuing a Master of Computer Applications (MCA) with a strong interest in software development, web technologies, and data science. I am passionate about building scalable applications, writing clean and efficient code, and continuously learning the latest technologies.
 ---
 
 ## 🎓 Education
