@@ -41,9 +41,9 @@ I am currently pursuing a Master of Computer Applications (MCA) with a strong in
 Responsive website using HTML, CSS, and JavaScript. Integrated dynamic content and interactive features to enhance user experience.  
 _Year: 2024–25_
 
-### 💼 My Portfolio Website
-A responsive personal portfolio using HTML, CSS, JS, and PHP showcasing my work and skills. Integrated a working contact form.  
-_Year: 2024–25_
+### Automation of Laundry and Ironing Services using Webapplication.
+A responsive website using HTML, CSS, JS, and Python showcasing my work and skills.  
+_Year: 2025–26_
 
 ---
 
