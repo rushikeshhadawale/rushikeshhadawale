@@ -6,7 +6,7 @@
 
 ## 💡 Summary
 
-I am currently pursuing a Master of Computer Applications (MCA) with a strong interest in software development, web technologies, and data science. I am passionate about building scalable applications, writing clean and efficient code, and continuously learning the latest technologies.
+Passionate and detail-oriented MCA student with a strong foundation in software development, data structures, and web technologies. Skilled in Java, Python, HTML, CSS, JavaScript, and React, with hands-on experience building academic and personal.Enthusiastic about Artificial Intelligence, Machine Learning, and Full-Stack Development, with a focus on creating efficient, user-friendly, and scalable solutions. Constantly exploring new technologies and contributing to open-source projects to enhance learning and innovation.
 ---
 
 ## 🎓 Education
@@ -30,7 +30,8 @@ I am currently pursuing a Master of Computer Applications (MCA) with a strong in
 - **Languages:** C, C++, Java, Python  
 - **Web Development:** HTML, CSS, JavaScript, PHP  
 - **Libraries & Tools:** Pandas, NumPy, Matplotlib  
-- **Tools:** VS Code, Jupyter Notebook, Google Colab  
+- **Tools:** VS Code, Jupyter Notebook, Google Colab
+- **FrameWorks:** React.js, Angular.js, SpringBoot, Flask, ASP.NET  
 - **Soft Skills:** Teamwork, Time Management, Problem Solving
 
 ---
